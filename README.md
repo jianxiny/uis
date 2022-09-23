@@ -9,3 +9,9 @@
 3.**change directory** to your project
 
 4.exec **yarn link uis**
+
+## Build 
+yarn build
+
+## Convention
+1. for add a new component, you need export by "src/components/index.ts"
